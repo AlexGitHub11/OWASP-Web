@@ -6,4 +6,4 @@ UNDER DEV
 
 This small project was built to better my understanding of some of the common software security vulnerabilities and how to mitigate them.
 
-Demo video: https://youtu.be/xzpol2H4ZlI
+Demo video: 
